@@ -1,0 +1,24 @@
+{
+  "name": "javascript-asynchronism-course",
+  "version": "1.0.0",
+  "description": "course about asynchronism in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhz-dev/javascript-asynchronism-course.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Jonathan Hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhz-dev/javascript-asynchronism-course/issues"
+  },
+  "homepage": "https://github.com/jhz-dev/javascript-asynchronism-course#readme"
+}
