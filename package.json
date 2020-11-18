@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jhz-dev/javascript-asynchronism-course/issues"
   },
-  "homepage": "https://github.com/jhz-dev/javascript-asynchronism-course#readme"
+  "homepage": "https://github.com/jhz-dev/javascript-asynchronism-course#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
